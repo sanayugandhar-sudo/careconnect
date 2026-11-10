@@ -1,0 +1,6 @@
+{
+  "name": "CareConnect Hospital OP Management System",
+  "description": "Comprehensive Outpatient (OP) Registration, Queue Management, and Reception Counter System with AI department assistance and instant OP slips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
